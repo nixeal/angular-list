@@ -1,0 +1,14 @@
+h1 {
+font-size: 3em;
+border: solid burlywood 8px;
+margin: 0 auto 0.99px;
+padding: .70px;
+text-align: center;
+}
+
+
+/*
+Copyright Google LLC. All Rights Reserved.
+Use of this source code is governed by an MIT-style license that
+can be found in the LICENSE file at https://angular.io/license
+*/
