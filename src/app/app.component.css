@@ -1,9 +1,13 @@
 h1 {
 font-size: 3em;
 border: solid burlywood 8px;
-margin: 0 auto 0.99px;
+margin: 0 auto 5px;
 padding: .70px;
 text-align: center;
+width: 97%;
+border-radius: 12px;
+background-color: lightcoral;
+
 }
 
 
