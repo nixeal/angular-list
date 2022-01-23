@@ -16,8 +16,9 @@
   font-family: sans-serif;
   font-size: 2em;
   border: solid burlywood 8px;
-  margin: 0.99px;
-  text-align:center;
+  margin: 20px auto 20px 90px;
+
+    text-align:center;
   padding: 5px;
   width:17.7rem;
   border-radius: 12px;
@@ -27,4 +28,8 @@
   border:solid burlywood 5px;
   color: purple;
   text-transform: uppercase;
+}
+.input-disp {
+  border: dashed bisque 5px;
+  margin: 20px auto 20px 90px;
 }
